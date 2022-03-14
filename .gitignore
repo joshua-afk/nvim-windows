@@ -1,0 +1,7 @@
+.netrwhist
+plugged/
+undodir
+undodir.vim
+plugin/
+ultisnips/
+coq-user-snippets/
