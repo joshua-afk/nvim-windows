@@ -17,8 +17,10 @@ nnoremap <C-W><C-H> <C-W><C-H>
 " nnoremap <C-W><C-M> <C-W><C-H>
 
 " Up and Down wrapper reverse
-nnoremap <expr> k v:count == 0 ? 'gk' : 'k'
-nnoremap <expr> j v:count == 0 ? 'gj' : 'j'
+nnoremap <expr> <up> v:count == 0 ? 'gk' : 'k'
+nnoremap <expr> <down> v:count == 0 ? 'gj' : 'j'
+nnoremap <left> h 
+nnoremap <right> l
 nnoremap gk k
 nnoremap gj j
 
