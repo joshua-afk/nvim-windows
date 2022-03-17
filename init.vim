@@ -85,7 +85,7 @@ source C:\\Users\\jr.velasquez\\AppData\\Local\\nvim\\plugins-config\\airline.vi
 source C:\\Users\\jr.velasquez\\AppData\\Local\\nvim\\plugins-config\\telescope.vim
 source C:\\Users\\jr.velasquez\\AppData\\Local\\nvim\\plugins-config\\floaterm.vim
 source C:\\Users\\jr.velasquez\\AppData\\Local\\nvim\\plugins-config\\nrpattern.vim
-source nvim_path\\plugins-config\\shade.vim
+source C:\\Users\\jr.velasquez\\AppData\\Local\\nvim\\plugins-config\\shade.vim
 
 " #===== THEMES =====#
 " source C:\\Users\\jr.velasquez\\AppData\\Local\\nvim\\plugins-config\\gruvbox.vim
