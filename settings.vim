@@ -42,8 +42,8 @@ set nowritebackup
 set undodir=C:\\Users\\jr.velasquez\\AppData\\Local\\nvim\\undodir.vim
 set undofile
 set clipboard=unnamedplus
-set synmaxcol=128
-syntax sync minlines=256
+" set synmaxcol=128
+" syntax sync minlines=256
 set nofixendofline
 set nofixeol
 set completeopt=menu
