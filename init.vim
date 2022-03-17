@@ -34,8 +34,12 @@ Plug 'kyazdani42/nvim-tree.lua'
 Plug 'nvim-telescope/telescope.nvim'
 Plug 'voldikss/vim-floaterm'
 
+" Linters & Fixers
+Plug 'digitaltoad/vim-pug'
+
 " Themes
 Plug 'morhetz/gruvbox'
+Plug 'sainnhe/everforest'
 " Plug 'rakr/vim-one'
 " Plug 'NLKNguyen/papercolor-theme'
 " Plug 'folke/tokyonight.nvim', { 'branch': 'main' }
@@ -81,10 +85,11 @@ source C:\\Users\\jr.velasquez\\AppData\\Local\\nvim\\plugins-config\\airline.vi
 source C:\\Users\\jr.velasquez\\AppData\\Local\\nvim\\plugins-config\\telescope.vim
 source C:\\Users\\jr.velasquez\\AppData\\Local\\nvim\\plugins-config\\floaterm.vim
 source C:\\Users\\jr.velasquez\\AppData\\Local\\nvim\\plugins-config\\nrpattern.vim
-source C:\\Users\\jr.velasquez\\AppData\\Local\\nvim\\plugins-config\\shade.vim
+source nvim_path\\plugins-config\\shade.vim
 
 " #===== THEMES =====#
-source C:\\Users\\jr.velasquez\\AppData\\Local\\nvim\\plugins-config\\gruvbox.vim
+" source C:\\Users\\jr.velasquez\\AppData\\Local\\nvim\\plugins-config\\gruvbox.vim
+source C:\\Users\\jr.velasquez\\AppData\\Local\\nvim\\plugins-config\\everforest.vim
 
 " #===== STARTIFY =====#
 let g:startify_bookmarks = [
